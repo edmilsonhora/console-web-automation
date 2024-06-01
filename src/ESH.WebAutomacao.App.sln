@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESH.WebAutomacao.App", "ESH.WebAutomacao.App\ESH.WebAutomacao.App.csproj", "{20095265-DDCA-4DBA-8BB2-18C1567FAAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20095265-DDCA-4DBA-8BB2-18C1567FAAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20095265-DDCA-4DBA-8BB2-18C1567FAAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20095265-DDCA-4DBA-8BB2-18C1567FAAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20095265-DDCA-4DBA-8BB2-18C1567FAAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466ED81B-D735-489B-9E2A-331669442CD9}
+	EndGlobalSection
+EndGlobal
